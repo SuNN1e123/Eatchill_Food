@@ -1,7 +1,6 @@
-# requirements.txt
 streamlit==1.44.1
-opencv-python-headless==4.9.0.80  # Headless version without GUI deps
-numpy==1.26.4  # Compatible version
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
 Pillow==10.3.0
-tensorflow==2.15.1  # Stable version for Python 3.11
-protobuf==3.20.3  # Required for TensorFlow
+tensorflow==2.15.1
+protobuf==3.20.3
