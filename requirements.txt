@@ -7,3 +7,5 @@ tensorflow
 opencv-python-headless  # Recommended for cloud deployments
 # or
 opencv-python
+  libgl1-mesa-glx
+  libglib2.0-0
