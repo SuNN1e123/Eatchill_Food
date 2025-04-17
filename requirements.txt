@@ -4,3 +4,6 @@ numpy
 Pillow
 requests
 tensorflow
+opencv-python-headless  # Recommended for cloud deployments
+# or
+opencv-python
